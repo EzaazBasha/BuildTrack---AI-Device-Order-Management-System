@@ -14,7 +14,7 @@ This ServiceNow custom application automates the order processing workflow for a
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/servicenow-custom-app.git
+   git clone [https://github.com/yourusername/servicenow-custom-app.git](https://github.com/EzaazBasha/BuildTrack---AI-Device-Order-Management-System.git)
    ```
 2. Import the application into ServiceNow.
 3. Configure the required workflows, UI components, and integrations.
